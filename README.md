@@ -1,0 +1,2 @@
+# simple-accordion
+ For myself.
